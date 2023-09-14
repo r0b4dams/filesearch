@@ -1,0 +1,8 @@
+{
+  "name": "filesearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:r0b4dams/filesearch.git",
+  "author": "Robert Adams <adamsiii.robert@gmail.com>",
+  "license": "MIT"
+}
